@@ -1,0 +1,11 @@
+# ignore folders and files
+data\
+results\
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore logs and databases
+*.log
+*.sqlite
