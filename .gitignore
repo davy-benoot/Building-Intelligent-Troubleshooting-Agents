@@ -1,6 +1,7 @@
 # ignore folders and files
 data\
 results\
+venv\
 
 # Ignore compiled Python files
 __pycache__/
@@ -9,3 +10,36 @@ __pycache__/
 # Ignore logs and databases
 *.log
 *.sqlite
+results/checkpoint-1/model.safetensors
+results/checkpoint-1/optimizer.pt
+results/checkpoint-1/rng_state.pth
+results/checkpoint-1/scheduler.pt
+results/checkpoint-1/special_tokens_map.json
+results/checkpoint-1/tokenizer_config.json
+results/checkpoint-1/tokenizer.json
+results/checkpoint-1/trainer_state.json
+results/checkpoint-1/training_args.bin
+results/checkpoint-1/vocab.txt
+results/checkpoint-2/config.json
+results/checkpoint-2/model.safetensors
+results/checkpoint-2/optimizer.pt
+results/checkpoint-2/rng_state.pth
+results/checkpoint-2/scheduler.pt
+results/checkpoint-2/special_tokens_map.json
+results/checkpoint-2/tokenizer_config.json
+results/checkpoint-2/tokenizer.json
+results/checkpoint-2/trainer_state.json
+results/checkpoint-2/training_args.bin
+results/checkpoint-2/vocab.txt
+results/checkpoint-3/config.json
+results/checkpoint-3/model.safetensors
+results/checkpoint-3/optimizer.pt
+results/checkpoint-3/rng_state.pth
+results/checkpoint-3/scheduler.pt
+results/checkpoint-3/special_tokens_map.json
+results/checkpoint-1/config.json
+results/checkpoint-3/tokenizer_config.json
+results/checkpoint-3/tokenizer.json
+results/checkpoint-3/trainer_state.json
+results/checkpoint-3/training_args.bin
+results/checkpoint-3/vocab.txt
