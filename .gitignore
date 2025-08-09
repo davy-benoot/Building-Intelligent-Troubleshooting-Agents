@@ -2,6 +2,7 @@
 data\
 results\
 venv\
+fine_tuned_bert\
 
 # Ignore compiled Python files
 __pycache__/
@@ -43,3 +44,4 @@ results/checkpoint-3/tokenizer.json
 results/checkpoint-3/trainer_state.json
 results/checkpoint-3/training_args.bin
 results/checkpoint-3/vocab.txt
+fine_tuned_bert/config.json
