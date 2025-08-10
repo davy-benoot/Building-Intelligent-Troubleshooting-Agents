@@ -3,6 +3,7 @@ data\
 results\
 venv\
 fine_tuned_bert\
+logs\
 
 # Ignore compiled Python files
 __pycache__/
