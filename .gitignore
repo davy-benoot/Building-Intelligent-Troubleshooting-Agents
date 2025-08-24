@@ -4,6 +4,7 @@ results\
 venv\
 fine_tuned_bert\
 logs\
+qlora-output\
 
 # Ignore compiled Python files
 __pycache__/
