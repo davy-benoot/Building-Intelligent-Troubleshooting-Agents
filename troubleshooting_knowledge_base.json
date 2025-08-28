@@ -1,0 +1,34 @@
+{
+    "slow_internet": {
+        "symptom": "My internet is very slow.",
+        "solution": "Try restarting your router and checking your connection settings."
+    },
+    "app_crashing": {
+        "symptom": "The app keeps crashing on startup.",
+        "solution": "Update the app to the latest version and restart your device."
+    },
+    "wifi_not_connecting": {
+        "symptom": "My WiFi is not connecting.",
+        "solution": "Check your WiFi password and try restarting your router."
+    },
+    "phone_not_charging": {
+        "symptom": "My phone is not charging.",
+        "solution": "Check the charger and cable for any damage, and try using a different charger."
+    },
+    "computer_freezing": {
+        "symptom": "My computer is freezing frequently.",
+        "solution": "Try restarting your computer and checking for any malware or viruses."
+    },
+    "tv_not_turning_on": {
+        "symptom": "My TV is not turning on.",
+        "solution": "Check the power cord and try resetting the TV."
+    },
+    "gaming_console_not_working": {
+        "symptom": "My gaming console is not working properly.",
+        "solution": "Try restarting the console and checking for any software updates."
+    },
+    "smart_home_device_not_connecting": {
+        "symptom": "My smart home device is not connecting to my network.",
+        "solution": "Check your WiFi password and try resetting the device."
+    }
+}
